@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Digital-Clock-Using-React-Js/static/css/main.8121f3f9.css",
-    "main.js": "/Digital-Clock-Using-React-Js/static/js/main.74e165fb.js",
+    "main.css": "/Digital-Clock-Using-React-Js/static/css/main.ea669e5f.css",
+    "main.js": "/Digital-Clock-Using-React-Js/static/js/main.55b7aac3.js",
     "static/js/453.ae6c6009.chunk.js": "/Digital-Clock-Using-React-Js/static/js/453.ae6c6009.chunk.js",
     "index.html": "/Digital-Clock-Using-React-Js/index.html",
-    "main.8121f3f9.css.map": "/Digital-Clock-Using-React-Js/static/css/main.8121f3f9.css.map",
-    "main.74e165fb.js.map": "/Digital-Clock-Using-React-Js/static/js/main.74e165fb.js.map",
+    "main.ea669e5f.css.map": "/Digital-Clock-Using-React-Js/static/css/main.ea669e5f.css.map",
+    "main.55b7aac3.js.map": "/Digital-Clock-Using-React-Js/static/js/main.55b7aac3.js.map",
     "453.ae6c6009.chunk.js.map": "/Digital-Clock-Using-React-Js/static/js/453.ae6c6009.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8121f3f9.css",
-    "static/js/main.74e165fb.js"
+    "static/css/main.ea669e5f.css",
+    "static/js/main.55b7aac3.js"
   ]
 }
